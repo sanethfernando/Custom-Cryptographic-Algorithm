@@ -1,6 +1,3 @@
-#Name = Shanujan Baskaran
-#Student No = 10696455
-
 # CONFIGURATION SECTION
 
 BLOCK_SIZE_BYTES = 8  # I defined the block size as 8 bytes = 64 bits 
